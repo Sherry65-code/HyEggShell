@@ -1,4 +1,4 @@
-# PyEggShell
+# HyEggShell
 
 Alternative to PYTHON
 
