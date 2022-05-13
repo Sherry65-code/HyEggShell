@@ -1,6 +1,6 @@
-# PyEggShell
+# CyEggShell
 
-Alternative to PYTHON
+Alternative to C++
 
 This shell is completely independent from any other shell.
 
